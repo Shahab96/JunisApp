@@ -1,0 +1,10 @@
+#loader {
+	background-color: #f1f1f1;
+	height:100%;
+	width:100%;
+	position:absolute!important;
+	z-index:9998;
+	text-align:center;
+	font-size:22px;
+	top: 0;
+}
